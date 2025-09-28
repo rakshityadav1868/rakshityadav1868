@@ -19,7 +19,7 @@
 
 ---
 
-# 🎬 Movie Vibes
+# 🎬  Vibes
 ![Inception GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXpnY2s2NWZjeTA3MndpMGZqZGl1OGFtbmwya3dmbjRsYzQzeWZxaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gVlgj80ZLp9yo/giphy.gif)
 
 ---
