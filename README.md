@@ -18,6 +18,8 @@
 👉 I can code for hours with just coffee ☕ and lo-fi beats 🎧  
 
 ---
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C853&width=435&lines=I+am+Rakshit;BTech+in+CS+-+AI%2FML+Student;Always+Learning+New+Tech;Fitness+Enthusiast+%F0%9F%92%AA)](https://git.io/typing-svg)
+---
 
 # 🎬  Vibes
 ![Inception GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXpnY2s2NWZjeTA3MndpMGZqZGl1OGFtbmwya3dmbjRsYzQzeWZxaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gVlgj80ZLp9yo/giphy.gif)
