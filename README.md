@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=2094F3&center=true&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B;I'm+Rakshit+Yadav;Frontend+Developer;18+Years+Old;Open+Source+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=2094F3&center=true&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B;I'm+Rakshit+Yadav;Fullstack+Developer;19+Years+Old;Open+Source+Enthusiast" alt="Typing SVG" />
 
   <p>
     <a href="https://www.linkedin.com/in/rakshit-yadav-0b2a5b23b/">
@@ -18,7 +18,7 @@
 ### About Me
 
 - I’m currently working on building **modern, responsive web applications**.
-- I’m currently learning **Advanced React Patterns & Next.js**.
+- I’m currently learning **NLP, Transformers, FastAPI**.
 - All of my projects are available at [https://github.com/rakshityadav1868](https://github.com/rakshityadav1868)
 - Fun fact: **I love turning complex problems into simple, beautiful designs.**
 
