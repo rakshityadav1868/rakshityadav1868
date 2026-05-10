@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=2094F3&center=true&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B;I'm+Rakshit+Yadav;19+Years+Old;" alt="Typing SVG" />
 
   <p>
-    <a href="https://www.linkedin.com/in/rakshit-yadav-0b2a5b23b/">
+    <a href="https://www.linkedin.com/in/rakshityadav07/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     &nbsp;&nbsp;
