@@ -1,52 +1,61 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=2094F3&center=true&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B;I'm+Rakshit+Yadav;Fullstack+Developer;19+Years+Old;Open+Source+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=2094F3&center=true&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B;I'm+Rakshit+Yadav;19+Years+Old;" alt="Typing SVG" />
 
   <p>
     <a href="https://www.linkedin.com/in/rakshit-yadav-0b2a5b23b/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
+    &nbsp;&nbsp;
     <a href="https://github.com/rakshityadav1868">
       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://x.com/rakshit_yadav19">
+      <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="GitHub" />
     </a>
   </p>
 
 </div>
 
----
+### What I'm Working On
 
-### About Me
+- Contributing to CNCF projects like Harbor and more
+- Exploring Kubernetes internals, container workflows, and cloud-native tooling
+- Learning Go while working on real open-source issues and CLI tooling
+- Understanding DevOps workflows, registries, networking, and deployment systems
+- Exploring AI/ML alongside backend and infrastructure-focused development
 
-- I’m currently working on building **modern, responsive web applications**.
-- I’m currently learning **NLP, Transformers, FastAPI**.
-- All of my projects are available at [https://github.com/rakshityadav1868](https://github.com/rakshityadav1868)
-- Fun fact: **I love turning complex problems into simple, beautiful designs.**
+## Tech
+* Languages: Go, Python, JavaScript, TypeScript
+* Frontend: React, Vue.js, Tailwind CSS
+* Backend: Node.js, Hono, FastAPI
+* Databases & ORM: MongoDB, PostgreSQL, Prisma
+* Cloud & Backend Services: Firebase, Supabase, Cloudflare
+* Authentication & Validation: JWT, bcrypt, Zod
+* Cloud Native: Kubernetes, Docker, Harbor
+* Systems: APIs, Networking, Container Infrastructure
+* DevOps: GitHub Actions, CI/CD, CLI Workflows
 
----
+## Current Goals
+
+
+- [ ] Complete Go
+- [ ] Deepen understanding of Kubernetes, Harbor and cloud-native systems
+- [ ] Contribute meaningful PRs to CNCF/open-source projects
+- [ ] Build a good project that combine backend systems with DevOps workflows
+
 
 ### 🛠️ Languages and Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,git,github,vscode,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,vscode,figma,ts,go,python,vuejs,nodejs,mongodb,prisma,firebase,docker,kubernetes,postgres&theme=dark" />
 </div>
 
 ---
 
 ### 📊 GitHub Statistics
 
-<div align="center">
-
-  <a href="https://github.com/rakshityadav1868">
-    <img src="https://github-readme-stats.vercel.app/api?username=rakshityadav1868&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Rakshit's GitHub Stats" />
-  </a>
-
-  <br />
-
-  <a href="https://github.com/rakshityadav1868">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakshityadav1868&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  </a>
-
-</div>
 
 <br />
 
