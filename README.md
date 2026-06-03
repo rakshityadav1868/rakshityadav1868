@@ -38,10 +38,10 @@
 ## Current Goals
 
 
-- [ ] Complete Go
+- [x] Complete Go
 - [ ] Deepen understanding of Kubernetes, Harbor and cloud-native systems
-- [ ] Contribute meaningful PRs to CNCF/open-source projects
-- [ ] Build a good project that combine backend systems with DevOps workflows
+- [x] Contribute meaningful PRs to CNCF/open-source projects
+- [x] Building Autoscaling workers 
 
 
 ### 🛠️ Languages and Tools
