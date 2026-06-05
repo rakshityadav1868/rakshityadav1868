@@ -18,11 +18,10 @@
 
 ### What I'm Working On
 
-- Contributing to CNCF projects like Harbor and more
+- Contributing to CNCF projects
 - Exploring Kubernetes internals, container workflows, and cloud-native tooling
 - Learning Go while working on real open-source issues and CLI tooling
 - Understanding DevOps workflows, registries, networking, and deployment systems
-- Exploring AI/ML alongside backend and infrastructure-focused development
 
 ## Tech
 * Languages: Go, Python, JavaScript, TypeScript
@@ -38,8 +37,8 @@
 ## Current Goals
 
 
-- [x] Complete Go
-- [ ] Deepen understanding of Kubernetes, Harbor and cloud-native systems
+- [x] deep dive in Go
+- [ ] Deepen understanding of Kubernetes ,cloud-native and distributed systems
 - [x] Contribute meaningful PRs to CNCF/open-source projects
 - [x] Building Autoscaling workers 
 
