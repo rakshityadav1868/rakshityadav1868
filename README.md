@@ -46,7 +46,7 @@
 ### 🛠️ Languages and Tools
 
 <div align="center">
- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rakshityadav1868&theme=gotham" alt="GitHub Streak" /></a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,vscode,figma,ts,go,python,vuejs,nodejs,mongodb,prisma,firebase,docker,kubernetes,postgres,kafka,prometheus,grafana&theme=dark" />
 </div>
 
 ---
