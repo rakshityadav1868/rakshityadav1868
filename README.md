@@ -48,7 +48,7 @@
 ### 🛠️ Languages and Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,vscode,figma,ts,go,python,vuejs,nodejs,mongodb,prisma,firebase,docker,kubernetes,postgres,kafka,prometheus,grafana&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,vscode,figma,ts,go,python,vuejs,nodejs,mongodb,prisma,firebase,docker,kubernetes,postgres,supabase&theme=dark" />
 </div>
 
 ---
