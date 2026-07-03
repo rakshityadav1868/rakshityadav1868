@@ -36,14 +36,6 @@
 * Systems: APIs, Networking, Container Infrastructure
 * DevOps: GitHub Actions, CI/CD, CLI Workflows
 
-## Current Goals
-
-
-- [x] deep dive in Go
-- [ ] Deepen understanding of Kubernetes ,cloud-native and distributed systems
-- [x] Contribute meaningful PRs to CNCF/open-source projects
-- [x] Building Autoscaling workers 
-
 
 ### 🛠️ Languages and Tools
 
