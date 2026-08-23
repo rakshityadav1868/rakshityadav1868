@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=2094F3&center=true&vCenter=true&width=500&lines=Hey+there!+%F0%9F%91%8B;I'm+Rakshit+Yadav;19+%7C+Building+AI+%26+Dev+Tools;100%2B+PRs+merged+in+open+source" alt="Typing SVG" />
-
 <p>
 <a href="https://rakshity.me"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 &nbsp;
