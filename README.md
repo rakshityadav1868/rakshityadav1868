@@ -52,16 +52,6 @@ I'm a 19 y/o CS student from Delhi, building at the intersection of **AI, open s
 
 Right now I'm heads-down on AI agents, developer tooling, and getting distribution right — turns out the building was never the hard part.
 
-## Tech
-
-* Languages: TypeScript, JavaScript, Python, Go
-* Frontend: React, Next.js, Vue.js, Tailwind CSS
-* Backend: Node.js, Hono, FastAPI, Prisma
-* Databases: PostgreSQL, MongoDB, Redis, SQLite
-* Cloud & Services: AWS, Firebase, Supabase, Cloudflare
-* Cloud Native: Kubernetes, Docker, Harbor
-* DevOps: GitHub Actions, CI/CD, CLI Workflows
-
 ### Languages and Tools
 
 <div align="center">
