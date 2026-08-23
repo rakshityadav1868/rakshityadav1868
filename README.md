@@ -70,24 +70,6 @@ Right now I'm heads-down on AI agents, developer tooling, and getting distributi
 
 ---
 
-### GitHub Statistics
-
-<br />
-
-<div align="center">
-<img src="https://streak-stats.demolab.com/?user=rakshityadav1868&theme=tokyonight&hide_border=true" alt="Streak Stats" />
-</div>
-
-<br />
-
-### Contribution Graph
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rakshityadav1868&bg_color=1a1b27&color=7aa2f7&line=7aa2f7&point=bb9af7&area=true&hide_border=true" alt="Contribution Graph" />
-</div>
-
----
-
 <div align="center">
 
 Always up for a chat, a collab, or geeking out over cool tech.
