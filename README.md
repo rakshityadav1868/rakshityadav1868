@@ -22,23 +22,23 @@ I'm a 19 y/o CS student from Delhi, building at the intersection of **AI, open s
 
 ### My Journey So Far
 
-- Started contributing to open source in **August 2025**, and never really stopped. Since then I've sent PRs to [cal.com](https://github.com/calcom/cal.com), [Harbor](https://github.com/goharbor/harbor), [harbor-cli](https://github.com/goharbor/harbor-cli), [KubeStellar](https://github.com/kubestellar/kubestellar), [Ruxailab](https://github.com/ruxailab) and clawvisor — mostly cloud-native codebases, infra debugging, and CLI work.
+- Started contributing to open source in **August 2025**, and never really stopped. Since then I've sent PRs to [cal.com](https://github.com/calcom/cal.com), [Harbor](https://github.com/goharbor/harbor), [harbor-cli](https://github.com/goharbor/harbor-cli), [KubeStellar](https://github.com/kubestellar/kubestellar), [Ruxailab](https://github.com/ruxailab) and clawvisor. Mostly cloud-native codebases, infra debugging, and CLI work.
 
 - Crossed **100 merged pull requests** in August 2026. Picked up Pull Shark x3, Pair Extraordinaire x3, Quickdraw and YOLO along the way.
 
-- Built **[KAIRO](https://usekairo.in)** — a unified payment orchestration layer. One integration, every provider: Stripe, Razorpay, PayPal, Adyen, Cashfree, with intelligent routing to keep success rates up.
+- Built **[KAIRO](https://usekairo.in)**: a unified payment orchestration layer. One integration, every provider: Stripe, Razorpay, PayPal, Adyen, Cashfree, with intelligent routing to keep success rates up.
 
-- Building **[Scout](https://gtm.usekairo.in)** — an AI sales agent that never stops prospecting. It watches market signals like funding rounds, hiring and tech adoption, finds ICP-matched companies, qualifies them, and writes the outreach.
+- Building **[Scout](https://gtm.usekairo.in)**: an AI sales agent that never stops prospecting. It watches market signals like funding rounds, hiring and tech adoption, finds ICP-matched companies, qualifies them, and writes the outreach.
 
-- Shipped **[AgenticKit](https://agentickit.co)** — a structured AI workforce for Cursor and Claude Code. **46 agents, 61 skills, 47 slash commands** that turn your editor into engineering and marketing playbooks instead of another unbounded chat. It scans your stack, writes your CLAUDE.md / CURSOR.md, and chains roles behind commands like /ship and /launch.
+- Shipped **[AgenticKit](https://agentickit.co)**: a structured AI workforce for Cursor and Claude Code. **46 agents, 61 skills, 47 slash commands** that turn your editor into engineering and marketing playbooks instead of another unbounded chat. It scans your stack, writes your CLAUDE.md / CURSOR.md, and chains roles behind commands like /ship and /launch.
 
-- Shipped **[rankr.lol](https://rankr.lol)** — pay-to-rank leaderboards for websites, apps and products. Saw outbid.lol do ~$100k selling leaderboard positions, so I built the budget-friendly version. $2 gets you #1 today.
+- Shipped **[rankr.lol](https://rankr.lol)**: pay-to-rank leaderboards for websites, apps and products. Saw outbid.lol do ~$100k selling leaderboard positions, so I built the budget-friendly version. $2 gets you #1 today.
 
-- Built **[Auto Scaling Workers](https://github.com/rakshityadav1868/Autoscaling-Workers)** — a Go async job engine with Redis-backed queues, autoscaling worker pools, SQLite persistence and pluggable LLM execution, so HTTP APIs stay responsive while the heavy work happens elsewhere.
+- Built **[Auto Scaling Workers](https://github.com/rakshityadav1868/Autoscaling-Workers)**: a Go async job engine with Redis-backed queues, autoscaling worker pools, SQLite persistence and pluggable LLM execution, so HTTP APIs stay responsive while the heavy work happens elsewhere.
 
-- Built **[NextPrep](https://next-prep-interview.vercel.app/)** — AI interview prep that reads a job description, pulls out the skills, and generates the questions you'll actually get asked. Python, FastAPI, GenAI and React.
+- Built **[NextPrep](https://next-prep-interview.vercel.app/)**: AI interview prep that reads a job description, pulls out the skills, and generates the questions you'll actually get asked. Python, FastAPI, GenAI and React.
 
-- **Growth Intern @ Chaptr** (May 2026 – Aug 2026, remote) — AI-driven short-form content, storytelling, and growth experimentation.
+- **Growth Intern @ Chaptr** (May 2026 - Aug 2026, remote): AI-driven short-form content, storytelling, and growth experimentation.
 
 - I write on **[Medium](https://medium.com/@yadavrakshit60)** about tech, AI, SaaS and open source:
   - [I Read the AI Policies of 120 Open Source Projects. Here Is What They Actually Say.](https://medium.com/@yadavrakshit60/i-read-the-ai-policies-of-120-open-source-projects-here-is-what-they-actually-say-9a5ea6897893)
@@ -48,7 +48,7 @@ I'm a 19 y/o CS student from Delhi, building at the intersection of **AI, open s
 
 - Not everything worked. 5 months on GSoC, rejected. LFX, rejected twice. Products that didn't sell. I wrote about it publicly instead of hiding it, and that turned out to be the most useful thing I've published. Still shipping :)
 
-Right now I'm heads-down on AI agents, developer tooling, and getting distribution right — turns out the building was never the hard part.
+Right now I'm heads-down on AI agents, developer tooling, and getting distribution right. Turns out the building was never the hard part.
 
 ### Languages and Tools
 
