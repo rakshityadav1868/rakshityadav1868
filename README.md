@@ -22,15 +22,15 @@ I'm a 19 y/o CS student from Delhi, building at the intersection of **AI, open s
 
 ### My Journey So Far
 
-- Selected as an **LFX Mentee (2026 Term 3)** with **[The Update Framework (TUF)](https://github.com/theupdateframework)**, a CNCF graduated project for securing software update systems. I'm working on [ELI5 docs and video for TUF](https://github.com/theupdateframework/theupdateframework.io/issues/132), making software supply chain security simple enough for a five year old, mentored by [Justin Cappos](https://github.com/JustinCappos) and [Kairo de Araujo](https://github.com/kairoaraujo).
+- Selected as an **LFX Mentee (2026 Term 3)** with **[The Update Framework (TUF)](https://github.com/theupdateframework)**, a CNCF graduated project for securing software update systems. I'm working on [ELI5 docs and video for TUF](https://github.com/theupdateframework/theupdateframework.io/issues/132), making software supply chain security simple enough for a five year old.
 
-- Started contributing to open source in **August 2025**, and never really stopped. Since then I've sent PRs to [cal.com](https://github.com/calcom/cal.com), [Ruxailab](https://github.com/ruxailab) and clawvisor.
+- **Growth Intern @ Chaptr** (May 2026 - Aug 2026, remote): AI-driven short-form content, storytelling, and growth experimentation.
 
-- Crossed **100 merged pull requests** in August 2026. Picked up Pull Shark x3, Pair Extraordinaire x3, Quickdraw and YOLO along the way.
+- Started contributing to open source in **August 2025**, and never really stopped. Since then I've sent PRs to [cal.com](https://github.com/calcom/cal.com), [Ruxailab](https://github.com/ruxailab) and Sugarlabs.
+
+- Crossed **100 merged pull requests** in August 2026.
 
 - Built **[KAIRO](https://usekairo.in)**: a unified payment orchestration layer. One integration, every provider: Stripe, Razorpay, PayPal, Adyen, Cashfree, with intelligent routing to keep success rates up.
-
-- Building **[Scout](https://gtm.usekairo.in)**: an AI sales agent that never stops prospecting. It watches market signals like funding rounds, hiring and tech adoption, finds ICP-matched companies, qualifies them, and writes the outreach.
 
 - Shipped **[AgenticKit](https://agentickit.co)**: a structured AI workforce for Cursor and Claude Code. **46 agents, 61 skills, 47 slash commands** that turn your editor into engineering and marketing playbooks instead of another unbounded chat. It scans your stack, writes your CLAUDE.md / CURSOR.md, and chains roles behind commands like /ship and /launch.
 
@@ -39,8 +39,6 @@ I'm a 19 y/o CS student from Delhi, building at the intersection of **AI, open s
 - Built **[Auto Scaling Workers](https://github.com/rakshityadav1868/Autoscaling-Workers)**: a Go async job engine with Redis-backed queues, autoscaling worker pools, SQLite persistence and pluggable LLM execution, so HTTP APIs stay responsive while the heavy work happens elsewhere.
 
 - Built **[NextPrep](https://next-prep-interview.vercel.app/)**: AI interview prep that reads a job description, pulls out the skills, and generates the questions you'll actually get asked. Python, FastAPI, GenAI and React.
-
-- **Growth Intern @ Chaptr** (May 2026 - Aug 2026, remote): AI-driven short-form content, storytelling, and growth experimentation.
 
 - I write on **[Medium](https://medium.com/@yadavrakshit60)** about tech, AI, SaaS and open source:
   - [I Read the AI Policies of 120 Open Source Projects. Here Is What They Actually Say.](https://medium.com/@yadavrakshit60/i-read-the-ai-policies-of-120-open-source-projects-here-is-what-they-actually-say-9a5ea6897893)
