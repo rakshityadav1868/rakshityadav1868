@@ -22,7 +22,9 @@ I'm a 19 y/o CS student from Delhi, building at the intersection of **AI, open s
 
 ### My Journey So Far
 
-- Started contributing to open source in **August 2025**, and never really stopped. Since then I've sent PRs to [cal.com](https://github.com/calcom/cal.com), [Harbor](https://github.com/goharbor/harbor), [harbor-cli](https://github.com/goharbor/harbor-cli), [KubeStellar](https://github.com/kubestellar/kubestellar), [Ruxailab](https://github.com/ruxailab) and clawvisor. Mostly cloud-native codebases, infra debugging, and CLI work.
+- Selected as an **LFX Mentee (2026 Term 3)** with **[The Update Framework (TUF)](https://github.com/theupdateframework)**, a CNCF graduated project for securing software update systems. I'm working on [ELI5 docs and video for TUF](https://github.com/theupdateframework/theupdateframework.io/issues/132), making software supply chain security simple enough for a five year old, mentored by [Justin Cappos](https://github.com/JustinCappos) and [Kairo de Araujo](https://github.com/kairoaraujo).
+
+- Started contributing to open source in **August 2025**, and never really stopped. Since then I've sent PRs to [cal.com](https://github.com/calcom/cal.com), [Ruxailab](https://github.com/ruxailab) and clawvisor.
 
 - Crossed **100 merged pull requests** in August 2026. Picked up Pull Shark x3, Pair Extraordinaire x3, Quickdraw and YOLO along the way.
 
@@ -46,14 +48,14 @@ I'm a 19 y/o CS student from Delhi, building at the intersection of **AI, open s
   - [5 Cursor Features That Will Save Your Time Every Day](https://medium.com/@yadavrakshit60/5-cursor-features-that-will-save-your-time-every-day-b5b4bbf5e95b)
   - [If You Own a Mac, You Need These 5 Apps](https://medium.com/@yadavrakshit60/if-you-own-a-mac-you-need-these-5-apps-4630e13d7964)
 
-- Not everything worked. 5 months on GSoC, rejected. LFX, rejected twice. Products that didn't sell. I wrote about it publicly instead of hiding it, and that turned out to be the most useful thing I've published. Still shipping :)
+- Not everything worked. 5 months on GSoC, rejected. LFX, rejected twice, then selected on the third try with TUF. Products that didn't sell. I wrote about it publicly instead of hiding it, and that turned out to be the most useful thing I've published. Still shipping :)
 
 Right now I'm heads-down on AI agents, developer tooling, and getting distribution right. Turns out the building was never the hard part.
 
 ### Languages and Tools
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vuejs,nodejs,python,go,fastapi,mongodb,postgres,redis,prisma,firebase,supabase,docker,kubernetes,aws,git,github,vscode,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vuejs,nodejs,python,go,fastapi,mongodb,postgres,redis,prisma,firebase,supabase,docker,git,github,vscode,figma&theme=dark" />
 </div>
 
 ---
